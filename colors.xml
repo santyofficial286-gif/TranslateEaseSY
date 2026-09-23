@@ -1,0 +1,11 @@
+<resources>
+    <color name="purple_deep">#5B2A86</color>
+    <color name="purple_mid">#8A3FFC</color>
+    <color name="pink_accent">#FF4FA3</color>
+    <color name="orange_accent">#FF8A3D</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="text_dark">#241B33</color>
+    <color name="text_muted">#8C82A3</color>
+    <color name="mic_red">#FF4B4B</color>
+    <color name="teal_green">#00C9A7</color>
+</resources>
